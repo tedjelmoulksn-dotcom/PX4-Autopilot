@@ -1,6 +1,6 @@
 # Personal PX4 Development Fork
 
-This repository is my working fork of PX4 Autopilot, used for learning and firmware-integration work associated with the [NXP FMUK66 drone project](https://github.com/tedjelmoulksn-dotcom/Drone).
+Personal PX4 fork supporting firmware-integration work for the NXP FMUK66 drone.
 
 The upstream PX4 community develops the flight stack. My project work focuses on board-level firmware integration and the surrounding aircraft system; the linked Drone repository explains the hardware choices, integration decisions and milestones.
 
